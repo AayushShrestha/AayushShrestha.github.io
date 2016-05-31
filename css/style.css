@@ -14,6 +14,14 @@ body {
 	background-color : #66401f;
 	color : #fff;
 }
+
+#logo {
+	    background: #222;
+    padding: 15px;
+    margin-top: -30px;
+    margin-left: -15px;
+    border-radius: 100%;
+}
 header.navbar-wrapper {
 	margin-top: 20px;
 }
