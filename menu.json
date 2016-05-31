@@ -1,0 +1,34 @@
+{
+	"appetizers" : {
+		"title" : "Appetizers",
+		"description" : "",
+		"items" : [
+			{
+				"title" : "Tandoori Assortment Platter",
+				"description" : "Tandoori chicken, Reshmi Kabab, Tandoori Shrimp",
+				"price" : 9.95
+			},
+			{
+				"title" : "Lamb Chops",
+				"description" : "Lamb, Cinnamon ginger and mint chutney baked in our Tandoori clay oven ",
+				"price" : 9.95
+			},
+		]
+	},
+	"soup" : {
+		"title" : "Soup",
+		"description" : "",
+		"items" : [
+			{
+				"title" : "Tomato Soup",
+				"description" : "",
+				"price" : 2.95
+			},
+			{
+				"title" : "Chicken Soup",
+				"description" : "",
+				"price" : 2.95
+			}
+		]
+	}
+}
